@@ -1,0 +1,1 @@
+Hey Hi I am karthik, How you doin? It's Nice to meet you. This is 1st text file in this repo which is sent through git bash.
